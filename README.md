@@ -1,2 +1,2 @@
-# teste aaa
-Olá, teste
+# Drác - Teste 1
+Olá, eu me chamo Kauã, tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Uninassau, estou aprimorando minhas técnicas e aprendendo a usar o github, isso é apenas um teste!
